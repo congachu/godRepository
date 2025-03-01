@@ -1,2 +1,5 @@
 djangorestframework
 django-environ
+dj-rest-auth
+dj-rest-auth[with_social]
+djangorestframework-simplejwt
